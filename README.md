@@ -27,7 +27,7 @@ Quais são os critérios para ganhar?
 2 => "Deve obedecer o código de conduta do projecto."
 3 => "Deve conter commits feitos apenas por ti."
 4 => "PRs que realmente adicionam valor ao projecto."
-5=> "PRs que foram aceitados. (merged, testes devem passar)."
+5 => "PRs que foram aceitados. (merged, testes devem passar)."
 ```
 
 E o premio?
