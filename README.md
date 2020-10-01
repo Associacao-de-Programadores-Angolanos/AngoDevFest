@@ -29,7 +29,7 @@ Quais são os critérios para ganhar?
 4 => "PRs que realmente adicionam valor ao projecto, PRs que foram aceitados. (merged, testes devem passar)."
 ```
 
-E o premio?
+E o prémio?
 ----------------
 O vencedor irá ganhar um prémio patrocinado pela Jetbrains. 
 Este prémio permitirá usar qualquer IDE da Jetbrains por um ano.
